@@ -7,6 +7,7 @@ Computer science student at SASTRA, graduating in 2028. Open to software enginee
 ## Projects
 
 **Fault Lab** — An HTTP server that simulates failures, delays, and recovery using JSON scenarios. Built with TypeScript, Node.js, and Express, with request logs and tests for concurrent requests and scenario rese
+
 **Checkpoint** — A CLI for saving, comparing, and restoring folder snapshots. Uses SHA-256 hashes to reuse unchanged file contents and checks file integrity before restoring. Built with TypeScript and Node.js.
 
 **[HelpdeskEnv](https://github.com/HR5206/HelpdeskEnv)** — A Python reinforcement learning environment built for the Meta × Scaler AI Hackathon. LLM agents route IT tickets across support tiers and share resolved fixes through a knowledge base. [Demo](https://huggingface.co/spaces/Harishraghav-05/helpdesk_env)
