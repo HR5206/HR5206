@@ -2,7 +2,7 @@
 
 Computer science student at SASTRA, graduating in 2028. Open to software engineering internships.
 
-[LinkedIn](https://www.linkedin.com/in/harishraghav5/) · [Email](mailto:harishraghav256@gmail.com) · [Repositories](https://github.com/HR5206?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/harishraghav5/) · [Email](mailto:harishraghav256@gmail.com) · [Repositories](https://github.com/HR5206?tab=repositories) · [Portfolio](https://www.harishraghav.dev/)
 
 ## Projects
 
