@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="76" viewBox="0 0 840 76" role="img" aria-labelledby="title desc">
+  <title id="title">HR — personal computer</title>
+  <desc id="desc">A cream and navy header with a gently glowing red cursor beside the path home slash harish.</desc>
+  <defs>
+    <filter id="glow" x="-100%" y="-250%" width="300%" height="600%">
+      <feGaussianBlur stdDeviation="3" />
+    </filter>
+  </defs>
+  <style>
+    .halo { opacity: .12; animation: breathe 4s ease-in-out infinite; }
+    .cursor { opacity: .9; animation: cursor 4s ease-in-out infinite; }
+    @keyframes breathe { 0%, 100% { opacity: .12; } 50% { opacity: .5; } }
+    @keyframes cursor { 0%, 100% { opacity: .65; } 50% { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) {
+      .halo, .cursor { animation: none; }
+    }
+  </style>
+  <rect x=".5" y=".5" width="839" height="71" fill="#F2EEE3" stroke="#20354B" />
+  <path d="M4 75H840" stroke="#8C9CA6" stroke-width="2" />
+  <rect x="14" y="14" width="44" height="44" fill="#20354B" />
+  <text x="36" y="43" text-anchor="middle" fill="#F2EEE3" font-family="monospace" font-size="21" font-weight="700">HR</text>
+  <path d="M78 21V51" stroke="#8C9CA6" stroke-opacity=".6" />
+  <text x="99" y="42" fill="#20354B" font-family="monospace" font-size="17">/home/harish</text>
+  <rect class="halo" x="224" y="44" width="11" height="3" fill="#A44743" filter="url(#glow)" />
+  <rect class="cursor" x="224" y="44" width="11" height="3" fill="#A44743" />
+  <text x="812" y="41" text-anchor="end" fill="#20354B" font-family="monospace" font-size="13" letter-spacing="1">personal computer</text>
+</svg>
